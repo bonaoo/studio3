@@ -1,6 +1,6 @@
 {
   "REPO_URL":"https://github.com/bonaoo/studio3.git",
-  "PROJECT_NAME":"Desktop/mysite",
+  "PROJECT_NAME":"mysite",
   "REMOTE_HOST":"studio3.ml",
   "REMOTE_USER":"django",
   "STATIC_ROOT":"static",
